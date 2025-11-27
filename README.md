@@ -48,7 +48,7 @@ Un site web romantique de compte à rebours jusqu'aux retrouvailles, avec citati
 
 1. **Cloner le repository**
 ```
-git clone https://gitlab.com/Aprilox/countdown-love.git
+git clone https://github.com/Aprilox/countdown-love.git
 cd countdown-love
 ```
 
@@ -226,7 +226,7 @@ npm run build
 npx vercel --prod
 
 # Ou avec l'interface Vercel
-# 1. Connecter le repository GitLab
+# 1. Connecter le repository GitHub
 # 2. Déployer automatiquement
 ```
 
@@ -279,7 +279,7 @@ npm run lint     # Vérification ESLint
 
 ## 🤝 Contribution
 
-1. **Fork** le projet sur GitLab
+1. **Fork** le projet sur GitHub
 2. **Créer** une branche feature (`git checkout -b feature/AmazingFeature`)
 3. **Commit** les changements (`git commit -m 'Add: AmazingFeature'`)
 4. **Push** vers la branche (`git push origin feature/AmazingFeature`)
@@ -354,7 +354,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👨‍💻 Auteur
 
-**Aprilox** - [GitLab](https://gitlab.com/Aprilox)
+**Aprilox** - [GitHub](https://github.com/Aprilox)
 
 Créé avec ❤️ pour l'amour
 
@@ -364,16 +364,16 @@ Créé avec ❤️ pour l'amour
 
 Pour toute question ou problème :
 
-1. 📋 Consulter les [Issues GitLab](https://gitlab.com/Aprilox/countdown-love/-/issues)
+1. 📋 Consulter les [Issues GitHub](https://github.com/Aprilox/countdown-love/issues)
 2. 🆕 Créer une nouvelle issue si nécessaire
 3. 📖 Consulter cette documentation
-4. 💬 Contacter [@Aprilox](https://gitlab.com/Aprilox)
+4. 💬 Contacter [@Aprilox](https://github.com/Aprilox)
 
 ---
 
 ## 🔗 Liens Utiles
 
-- **Repository GitLab**: https://gitlab.com/Aprilox/countdown-love
+- **Repository GitHub**: https://github.com/Aprilox/countdown-love
 - **Documentation Next.js**: https://nextjs.org/docs
 - **Documentation Radix UI**: https://www.radix-ui.com/
 - **Documentation Tailwind CSS**: https://tailwindcss.com/docs
